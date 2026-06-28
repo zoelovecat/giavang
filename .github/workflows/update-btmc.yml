@@ -13,6 +13,7 @@ permissions:
 jobs:
   update-prices:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -24,6 +25,7 @@ jobs:
         env:
           BTMC_API_KEY: ${{ secrets.BTMC_API_KEY }}
         run: node scripts/fetch-btmc.js
+        timeout-minutes: 5
 
       - name: Commit updated prices
         run: |

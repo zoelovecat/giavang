@@ -1,7 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
-const { fetchBTMCFromAPI } = require('./btmc-api');
+const { fetchBTMC } = require('./btmc-api');
 
 const PORT = Number(process.env.PORT) || 3000;
 const ROOT = path.join(__dirname, '..');
@@ -27,12 +27,12 @@ async function handleBtmcApi(res) {
   };
 
   try {
-    const live = await fetchBTMCFromAPI();
-    console.log(`[api/btmc] Live API OK — ${live.count} items`);
+    const live = await fetchBTMC();
+    console.log(`[api/btmc] OK via ${live.source} — ${live.count} items`);
     send(200, live);
     return;
   } catch (err) {
-    console.warn(`[api/btmc] Live API failed: ${err.message}`);
+    console.warn(`[api/btmc] All sources failed: ${err.message}`);
   }
 
   const cached = readJson('data/btmc.json');
