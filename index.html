@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Giá Vàng BTMC</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            gold: { 50: '#fffbeb', 100: '#fef3c7', 500: '#f59e0b', 600: '#d97706', 700: '#b45309' },
+          },
+        },
+      },
+    };
+  </script>
+</head>
+<body class="bg-amber-50 min-h-screen text-gray-900 antialiased">
+
+  <div class="max-w-lg mx-auto px-4 py-6 space-y-5">
+
+    <!-- Header -->
+    <header class="text-center space-y-2">
+      <h1 class="text-2xl font-bold text-gold-700">💛 Giá Vàng BTMC</h1>
+      <p class="text-base text-gray-600">Bảo Tín Minh Châu — cập nhật tự động</p>
+      <p id="last-updated" class="text-sm text-gray-500">Đang tải...</p>
+      <button id="btn-refresh"
+        class="mt-1 px-5 py-2.5 bg-gold-600 text-white rounded-xl text-base font-medium
+               hover:bg-gold-700 active:scale-95 transition">
+        🔄 Làm mới
+      </button>
+    </header>
+
+    <!-- World gold comparison -->
+    <section class="bg-white rounded-2xl shadow-sm border border-gold-100 p-5 space-y-3">
+      <h2 class="text-lg font-semibold text-gold-700">📊 Vàng thế giới (tham khảo)</h2>
+      <p class="text-sm text-gray-500">So sánh giá XAU/USD — không phải giá Việt Nam</p>
+      <div id="world-gold-loading" class="text-gray-400 text-base animate-pulse">Đang tải...</div>
+      <div id="world-gold-error" class="hidden bg-red-50 border border-red-200 text-red-700 rounded-xl p-4 text-base"></div>
+      <div id="world-gold-content" class="hidden space-y-3">
+        <div class="flex justify-between items-baseline">
+          <span class="text-base text-gray-600">Hiện tại</span>
+          <span id="world-current" class="text-xl font-bold text-gold-700">—</span>
+        </div>
+        <div id="comparison-rows" class="space-y-2 text-base"></div>
+      </div>
+    </section>
+
+    <!-- BTMC prices -->
+    <section class="bg-white rounded-2xl shadow-sm border border-gold-100 p-5 space-y-3">
+      <h2 class="text-lg font-semibold text-gold-700">🏅 Giá vàng BTMC</h2>
+      <p class="text-sm text-gray-500">Giá trong nước — đ/lượng (triệu)</p>
+      <div id="btmc-loading" class="text-gray-400 text-base animate-pulse">Đang tải giá BTMC...</div>
+      <div id="btmc-error" class="hidden bg-red-50 border border-red-200 text-red-700 rounded-xl p-4 text-base"></div>
+      <div id="btmc-table" class="hidden space-y-3"></div>
+    </section>
+
+    <!-- Calculator -->
+    <section class="bg-amber-100 border-2 border-amber-300 rounded-2xl p-5 space-y-4">
+      <h2 class="text-lg font-semibold text-amber-900">🧮 Tính giá (tham khảo)</h2>
+
+      <div class="bg-amber-200 border border-amber-400 rounded-xl p-4 text-base text-amber-900 leading-relaxed">
+        <p class="font-semibold">⚠️ Lưu ý quan trọng</p>
+        <p class="mt-1">
+          Đây là giá <strong>vàng thế giới (XAU/USD)</strong>, không phải giá mua/bán
+          tại Việt Nam hay BTMC. Chỉ mang tính <strong>tham khảo</strong>, không dùng
+          để giao dịch thực tế.
+        </p>
+      </div>
+
+      <label for="calc-chi" class="block text-base font-medium text-gray-800">
+        Số chỉ vàng
+      </label>
+      <input id="calc-chi" type="number" min="0" step="0.1" placeholder="VD: 5"
+        class="w-full px-4 py-3 text-lg border-2 border-amber-300 rounded-xl
+               focus:outline-none focus:border-gold-500 bg-white">
+
+      <div id="calc-result" class="hidden space-y-2 text-base">
+        <div class="flex justify-between">
+          <span class="text-gray-700">Giá tham khảo (vàng TG)</span>
+          <span id="calc-usd" class="font-bold text-lg text-gold-700">—</span>
+        </div>
+        <p class="text-sm text-amber-800 italic">
+          Tính theo giá vàng thế giới hiện tại, không phải giá BTMC.
+        </p>
+      </div>
+    </section>
+
+    <footer class="text-center text-sm text-gray-400 pb-6">
+      Nguồn: BTMC · giavang.now · Cập nhật mỗi 5 phút (BTMC: GitHub Actions 2h/lần)
+    </footer>
+
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>

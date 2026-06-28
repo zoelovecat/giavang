@@ -1,0 +1,35 @@
+name: Update BTMC gold prices
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch BTMC prices
+        env:
+          BTMC_API_KEY: ${{ secrets.BTMC_API_KEY }}
+        run: node scripts/fetch-btmc.js
+
+      - name: Commit updated prices
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/btmc.json
+          git diff --staged --quiet && echo "No price changes" && exit 0
+          git commit -m "chore: update BTMC gold prices"
+          git push
