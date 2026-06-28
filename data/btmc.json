@@ -1,7 +1,25 @@
 {
   "success": true,
-  "count": 0,
-  "prices": [],
-  "fetchedAt": null,
-  "note": "Giá sẽ được GitHub Actions cập nhật sau khi deploy"
+  "count": 2,
+  "prices": [
+    {
+      "name": "Bao Tin SJC",
+      "karat": "24K",
+      "content": "999.9",
+      "buy": "14430000",
+      "sell": "14850000",
+      "updated": "2026-06-28 07:30"
+    },
+    {
+      "name": "Bao Tin 9999",
+      "karat": "24K",
+      "content": "999.9",
+      "buy": "14430000",
+      "sell": "14800000",
+      "updated": "2026-06-28 07:30"
+    }
+  ],
+  "fetchedAt": "2026-06-28T09:03:52.185Z",
+  "source": "giavang",
+  "note": "Chỉ 2 loại BTMC từ giavang.now — server GitHub không kết nối được api.btmc.vn"
 }

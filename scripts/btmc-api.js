@@ -8,9 +8,16 @@ const BTMC_SCRAPE_URLS = [
   'https://btmc.vn/',
 ];
 
+const GIAVANG_URL = 'https://giavang.now/api/prices';
+
+const GIAVANG_BTMC_MAP = {
+  BTSJC: { name: 'Vàng miếng SJC (Bảo Tín Minh Châu)', content: '999.9' },
+  BT9999NTT: { name: 'Vàng trang sức 9999 (Bảo Tín Minh Châu)', content: '999.9' },
+};
+
 const DEFAULT_KEY = '3kd8ub1llcg9t45hnoh8hmn7t5kc2v';
-const REQUEST_TIMEOUT_MS = 45_000;
-const MAX_RETRIES = 3;
+const REQUEST_TIMEOUT_MS = 15_000;
+const MAX_RETRIES = 2;
 
 const BROWSER_HEADERS = {
   'User-Agent':
@@ -177,22 +184,88 @@ async function fetchBTMCFromScrape() {
   throw lastError ?? new Error('BTMC scrape failed');
 }
 
+function mapGiavangToBTMC(data) {
+  const pricesObj = data.prices ?? {};
+  const prices = Object.entries(GIAVANG_BTMC_MAP)
+    .map(([code, meta]) => {
+      const p = pricesObj[code];
+      if (!p?.buy) return null;
+      return {
+        name: p.name || meta.name,
+        karat: '24K',
+        content: meta.content,
+        buy: String(Math.round(p.buy / 10)),
+        sell: p.sell ? String(Math.round(p.sell / 10)) : '0',
+        updated: data.date && data.time ? `${data.date} ${data.time}` : '',
+      };
+    })
+    .filter(Boolean);
+
+  if (!prices.length) {
+    throw new Error('giavang không có dữ liệu BTMC');
+  }
+
+  return {
+    success: true,
+    count: prices.length,
+    prices,
+    fetchedAt: new Date().toISOString(),
+    source: 'giavang',
+    note:
+      'Chỉ 2 loại BTMC từ giavang.now — server GitHub không kết nối được api.btmc.vn',
+  };
+}
+
+async function fetchBTMCFromGiavang() {
+  const response = await fetchWithRetry(GIAVANG_URL, {
+    headers: { Accept: 'application/json' },
+  });
+
+  if (!response.ok) {
+    throw new Error(`giavang HTTP ${response.status}`);
+  }
+
+  const data = await response.json();
+  if (!data.success) {
+    throw new Error('giavang API trả về lỗi');
+  }
+
+  return mapGiavangToBTMC(data);
+}
+
 async function fetchBTMC() {
+  const onCi = process.env.GITHUB_ACTIONS === 'true';
+
   try {
     return await fetchBTMCFromAPI();
   } catch (apiErr) {
     console.warn(`[BTMC] API failed: ${apiErr.message}`);
   }
 
-  console.warn('[BTMC] Trying website scrape fallback...');
-  return fetchBTMCFromScrape();
+  if (!onCi) {
+    try {
+      console.warn('[BTMC] Trying website scrape...');
+      return await fetchBTMCFromScrape();
+    } catch (scrapeErr) {
+      console.warn(`[BTMC] Scrape failed: ${scrapeErr.message}`);
+    }
+  } else {
+    console.warn('[BTMC] Skip scrape on GitHub Actions');
+  }
+
+  console.warn('[BTMC] Using giavang.now (BTMC server unreachable)');
+  return fetchBTMCFromGiavang();
 }
 
 module.exports = {
   parseBTMCJson,
   parseBTMCHtml,
+  mapGiavangToBTMC,
   fetchBTMC,
   fetchBTMCFromAPI,
   fetchBTMCFromScrape,
+  fetchBTMCFromGiavang,
+  GIAVANG_URL,
+  GIAVANG_BTMC_MAP,
   DEFAULT_KEY,
 };

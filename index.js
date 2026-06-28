@@ -3,6 +3,11 @@ const CHI_PER_TROY_OZ = 31.1034768 / 3.75;
 const REFRESH_MS = 5 * 60 * 1000;
 const BTMC_TIMEOUT_MS = 10_000;
 
+const GIAVANG_BTMC_MAP = {
+  BTSJC: { name: 'Vàng miếng SJC (Bảo Tín Minh Châu)', content: '999.9' },
+  BT9999NTT: { name: 'Vàng trang sức 9999 (Bảo Tín Minh Châu)', content: '999.9' },
+};
+
 function getBTMCUrl() {
   const isLocal =
     location.hostname === 'localhost' || location.hostname === '127.0.0.1';
@@ -44,7 +49,7 @@ function setUpdatedLabel() {
     `Cập nhật: ${now.toLocaleDateString('vi-VN')} ${now.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' })}`;
 }
 
-async function fetchBTMC() {
+async function fetchBTMCStatic() {
   const url = getBTMCUrl();
   const response = await fetch(url, {
     cache: 'no-cache',
@@ -56,20 +61,54 @@ async function fetchBTMC() {
   try {
     data = JSON.parse(text);
   } catch {
-    throw new Error(
-      url === 'data/btmc.json'
-        ? 'Không đọc được dữ liệu BTMC. Chạy: npm run dev (local) hoặc deploy GitHub Pages.'
-        : 'Dev server lỗi. Chạy npm run dev trong thư mục project.',
-    );
+    throw new Error('Không đọc được data/btmc.json');
   }
 
-  if (!response.ok || !data.success) {
-    throw new Error(data.error || data.message || 'Không tải được giá BTMC');
-  }
-  if (!data.prices?.length) {
-    throw new Error('Chưa có dữ liệu giá BTMC. Chạy GitHub Actions hoặc npm run fetch-prices.');
+  if (!response.ok || !data.success || !data.prices?.length) {
+    throw new Error(data.error || 'File BTMC trống hoặc lỗi');
   }
   return data;
+}
+
+async function fetchBTMCFromGiavangLive() {
+  const response = await fetch(GIAVANG_API);
+  const data = await response.json();
+  if (!response.ok || !data.success) {
+    throw new Error('Không tải được giá BTMC từ giavang.now');
+  }
+
+  const prices = Object.entries(GIAVANG_BTMC_MAP)
+    .map(([code, meta]) => {
+      const p = data.prices?.[code];
+      if (!p?.buy) return null;
+      return {
+        name: p.name || meta.name,
+        karat: '24K',
+        content: meta.content,
+        buy: String(Math.round(p.buy / 10)),
+        sell: p.sell ? String(Math.round(p.sell / 10)) : '0',
+        updated: data.date && data.time ? `${data.date} ${data.time}` : '',
+      };
+    })
+    .filter(Boolean);
+
+  if (!prices.length) throw new Error('giavang.now không có dữ liệu BTMC');
+
+  return {
+    success: true,
+    count: prices.length,
+    prices,
+    source: 'giavang-live',
+    note: '2 loại BTMC từ giavang.now — api.btmc.vn không khả dụng',
+  };
+}
+
+async function fetchBTMC() {
+  try {
+    return await fetchBTMCStatic();
+  } catch {
+    return fetchBTMCFromGiavangLive();
+  }
 }
 
 function showSectionError(errorEl, loadingEl, contentEl, message) {
@@ -84,10 +123,20 @@ function hideSectionError(errorEl) {
   errorEl.textContent = '';
 }
 
-function renderBTMCTable(prices) {
+function renderBTMCTable(prices, meta = {}) {
   hideSectionError($('btmc-error'));
   const container = $('btmc-table');
   container.innerHTML = '';
+
+  if (meta.source === 'giavang' || meta.source === 'giavang-live') {
+    const note = document.createElement('p');
+    note.className =
+      'text-sm text-amber-800 bg-amber-50 border border-amber-200 rounded-lg p-3 mb-2';
+    note.textContent =
+      meta.note ||
+      'Chỉ hiển thị 2 loại BTMC (SJC, trang sức 9999) từ giavang.now — API BTMC chính thức chưa kết nối được.';
+    container.appendChild(note);
+  }
 
   prices.forEach((item) => {
     const sellDisplay =
@@ -217,7 +266,10 @@ async function loadBTMC() {
 
   try {
     const result = await fetchBTMC();
-    renderBTMCTable(result.prices);
+    renderBTMCTable(result.prices, {
+      source: result.source,
+      note: result.note,
+    });
   } catch (err) {
     showSectionError(
       $('btmc-error'),
