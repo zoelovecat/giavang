@@ -8,7 +8,7 @@
       "content": "999.9",
       "buy": "14370000",
       "sell": "14700000",
-      "updated": "2026-07-22 11:30"
+      "updated": "2026-07-22 15:00"
     },
     {
       "name": "Bao Tin 9999",
@@ -16,10 +16,10 @@
       "content": "999.9",
       "buy": "14370000",
       "sell": "14750000",
-      "updated": "2026-07-22 11:30"
+      "updated": "2026-07-22 15:00"
     }
   ],
-  "fetchedAt": "2026-07-22T04:55:29.915Z",
+  "fetchedAt": "2026-07-22T08:04:05.324Z",
   "source": "giavang",
   "note": "Chỉ 2 loại BTMC từ giavang.now — server GitHub không kết nối được api.btmc.vn"
 }
