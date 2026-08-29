@@ -1,7 +1,196 @@
 {
   "success": true,
-  "count": 21,
+  "count": 42,
   "prices": [
+    {
+      "name": "ĐỒNG XU VRTL 0.1 (Vàng Rồng Thăng Long)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "1453000",
+      "sell": "1493000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 15:06"
+    },
+    {
+      "name": "TRANG SỨC VÀNG RỒNG THĂNG LONG 99.9 (Vàng BTMC)",
+      "karat": "24k",
+      "content": "99.9",
+      "buy": "14310000",
+      "sell": "14810000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 15:06"
+    },
+    {
+      "name": "QUÀ MỪNG BẢN VỊ VÀNG (Quà Mừng Bản Vị Vàng)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14530000",
+      "sell": "14930000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 15:06"
+    },
+    {
+      "name": "BẢN VÀNG ĐẮC LỘC (Vàng Rồng Thăng Long)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14530000",
+      "sell": "14930000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 15:06"
+    },
+    {
+      "name": "VÀNG MIẾNG VRTL (Vàng Rồng Thăng Long)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14530000",
+      "sell": "14930000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 15:06"
+    },
+    {
+      "name": "VÀNG NGUYÊN LIỆU (Vàng thị trường)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "13910000",
+      "sell": "0",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 15:06"
+    },
+    {
+      "name": "VÀNG HỆ THỐNG (Quà Mừng Bản Vị Vàng)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14030000",
+      "sell": "0",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 15:06"
+    },
+    {
+      "name": "TRANG SỨC VÀNG RỒNG THĂNG LONG 999.9 (Vàng BTMC)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14330000",
+      "sell": "14830000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 15:06"
+    },
+    {
+      "name": "NHẪN TRÒN TRƠN (Vàng Rồng Thăng Long)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14530000",
+      "sell": "14930000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 15:06"
+    },
+    {
+      "name": "VÀNG MIẾNG SJC (Vàng SJC)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14530000",
+      "sell": "14870000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 15:06"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58004000",
+      "sell": "59794000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29002000",
+      "sell": "29897000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22080000",
+      "sell": "22760000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11040000",
+      "sell": "11380000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "58826520",
+      "sell": "60639848",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11030000",
+      "sell": "11370000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2206000",
+      "sell": "2274000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598180",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299090",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4454",
+      "updated": "29/08/2026 11:42"
+    },
     {
       "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
       "karat": "",
@@ -192,6 +381,6 @@
       "updated": "29/08/2026 10:25"
     }
   ],
-  "fetchedAt": "2026-08-29T04:28:20.661Z",
+  "fetchedAt": "2026-08-29T11:51:16.352Z",
   "source": "btmc-api"
 }
