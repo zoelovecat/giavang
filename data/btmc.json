@@ -1,7 +1,97 @@
 {
   "success": true,
-  "count": 41,
+  "count": 51,
   "prices": [
+    {
+      "name": "VÀNG MIẾNG VRTL (Vàng Rồng Thăng Long)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14530000",
+      "sell": "14930000",
+      "worldPrice": "4454",
+      "updated": "30/08/2026 16:22"
+    },
+    {
+      "name": "ĐỒNG XU VRTL 0.1 (Vàng Rồng Thăng Long)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "1453000",
+      "sell": "1493000",
+      "worldPrice": "4454",
+      "updated": "30/08/2026 16:22"
+    },
+    {
+      "name": "VÀNG HỆ THỐNG (Quà Mừng Bản Vị Vàng)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14030000",
+      "sell": "0",
+      "worldPrice": "4454",
+      "updated": "30/08/2026 16:22"
+    },
+    {
+      "name": "BẢN VÀNG ĐẮC LỘC (Vàng Rồng Thăng Long)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14530000",
+      "sell": "14930000",
+      "worldPrice": "4454",
+      "updated": "30/08/2026 16:22"
+    },
+    {
+      "name": "VÀNG MIẾNG SJC (Vàng SJC)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14510000",
+      "sell": "14870000",
+      "worldPrice": "4454",
+      "updated": "30/08/2026 16:22"
+    },
+    {
+      "name": "QUÀ MỪNG BẢN VỊ VÀNG (Quà Mừng Bản Vị Vàng)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14530000",
+      "sell": "14930000",
+      "worldPrice": "4454",
+      "updated": "30/08/2026 16:22"
+    },
+    {
+      "name": "VÀNG NGUYÊN LIỆU (Vàng thị trường)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "13750000",
+      "sell": "0",
+      "worldPrice": "4454",
+      "updated": "30/08/2026 16:22"
+    },
+    {
+      "name": "TRANG SỨC VÀNG RỒNG THĂNG LONG 99.9 (Vàng BTMC)",
+      "karat": "24k",
+      "content": "99.9",
+      "buy": "14310000",
+      "sell": "14810000",
+      "worldPrice": "4454",
+      "updated": "30/08/2026 16:22"
+    },
+    {
+      "name": "TRANG SỨC VÀNG RỒNG THĂNG LONG 999.9 (Vàng BTMC)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14330000",
+      "sell": "14830000",
+      "worldPrice": "4454",
+      "updated": "30/08/2026 16:22"
+    },
+    {
+      "name": "NHẪN TRÒN TRƠN (Vàng Rồng Thăng Long)",
+      "karat": "24k",
+      "content": "999.9",
+      "buy": "14530000",
+      "sell": "14930000",
+      "worldPrice": "4454",
+      "updated": "30/08/2026 16:22"
+    },
     {
       "name": "VÀNG MIẾNG VRTL (Vàng Rồng Thăng Long)",
       "karat": "24k",
@@ -372,6 +462,6 @@
       "updated": "30/08/2026 09:44"
     }
   ],
-  "fetchedAt": "2026-08-30T07:42:26.699Z",
+  "fetchedAt": "2026-08-30T13:21:53.255Z",
   "source": "btmc-api"
 }
