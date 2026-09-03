@@ -1,7 +1,3373 @@
 {
   "success": true,
-  "count": 2730,
+  "count": 3104,
   "prices": [
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59056000",
+      "sell": "60886000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29528000",
+      "sell": "30443000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22470000",
+      "sell": "23170000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11235000",
+      "sell": "11585000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:58"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58960000",
+      "sell": "60780000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29480000",
+      "sell": "30390000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22430000",
+      "sell": "23130000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11215000",
+      "sell": "11565000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:54"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58880000",
+      "sell": "60700000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29440000",
+      "sell": "30350000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22410000",
+      "sell": "23100000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11205000",
+      "sell": "11550000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:52"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58826000",
+      "sell": "60646000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29413000",
+      "sell": "30323000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22390000",
+      "sell": "23080000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11195000",
+      "sell": "11540000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:50"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58906000",
+      "sell": "60726000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29453000",
+      "sell": "30363000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22420000",
+      "sell": "23110000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11210000",
+      "sell": "11555000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:48"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58986000",
+      "sell": "60806000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29493000",
+      "sell": "30403000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22440000",
+      "sell": "23140000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11220000",
+      "sell": "11570000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:46"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59004000",
+      "sell": "60834000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29502000",
+      "sell": "30417000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22450000",
+      "sell": "23150000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11225000",
+      "sell": "11575000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:42"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59056000",
+      "sell": "60886000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29528000",
+      "sell": "30443000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22470000",
+      "sell": "23170000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11235000",
+      "sell": "11585000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:38"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59110000",
+      "sell": "60940000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29555000",
+      "sell": "30470000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22490000",
+      "sell": "23190000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11245000",
+      "sell": "11595000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:34"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59164000",
+      "sell": "60994000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29582000",
+      "sell": "30497000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22510000",
+      "sell": "23210000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11255000",
+      "sell": "11605000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:28"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59190000",
+      "sell": "61020000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29595000",
+      "sell": "30510000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22520000",
+      "sell": "23220000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11260000",
+      "sell": "11610000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:26"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59164000",
+      "sell": "60994000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29582000",
+      "sell": "30497000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22510000",
+      "sell": "23210000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11255000",
+      "sell": "11605000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:22"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59216000",
+      "sell": "61046000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29608000",
+      "sell": "30523000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22530000",
+      "sell": "23230000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11265000",
+      "sell": "11615000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:20"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59296000",
+      "sell": "61126000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29648000",
+      "sell": "30563000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22560000",
+      "sell": "23260000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11280000",
+      "sell": "11630000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:14"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59394000",
+      "sell": "61234000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29697000",
+      "sell": "30617000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22600000",
+      "sell": "23300000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11300000",
+      "sell": "11650000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:06"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59474000",
+      "sell": "61314000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29737000",
+      "sell": "30657000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22630000",
+      "sell": "23330000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11315000",
+      "sell": "11665000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 20:00"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59420000",
+      "sell": "61260000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29710000",
+      "sell": "30630000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22610000",
+      "sell": "23310000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11305000",
+      "sell": "11655000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:58"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59366000",
+      "sell": "61206000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29683000",
+      "sell": "30603000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22590000",
+      "sell": "23290000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11295000",
+      "sell": "11645000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:56"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59270000",
+      "sell": "61100000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29635000",
+      "sell": "30550000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22550000",
+      "sell": "23250000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11275000",
+      "sell": "11625000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:54"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59136000",
+      "sell": "60966000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29568000",
+      "sell": "30483000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22500000",
+      "sell": "23200000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11250000",
+      "sell": "11600000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:52"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59056000",
+      "sell": "60886000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29528000",
+      "sell": "30443000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22470000",
+      "sell": "23170000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11235000",
+      "sell": "11585000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:50"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58986000",
+      "sell": "60806000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29493000",
+      "sell": "30403000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22440000",
+      "sell": "23140000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11220000",
+      "sell": "11570000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:48"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58880000",
+      "sell": "60700000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29440000",
+      "sell": "30350000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22410000",
+      "sell": "23100000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11205000",
+      "sell": "11550000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:46"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59004000",
+      "sell": "60834000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29502000",
+      "sell": "30417000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22450000",
+      "sell": "23150000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11225000",
+      "sell": "11575000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:44"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59110000",
+      "sell": "60940000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29555000",
+      "sell": "30470000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22490000",
+      "sell": "23190000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11245000",
+      "sell": "11595000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:42"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59056000",
+      "sell": "60886000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29528000",
+      "sell": "30443000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22470000",
+      "sell": "23170000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11235000",
+      "sell": "11585000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:40"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58854000",
+      "sell": "60674000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29427000",
+      "sell": "30337000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22400000",
+      "sell": "23090000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11200000",
+      "sell": "11545000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:38"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58986000",
+      "sell": "60806000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29493000",
+      "sell": "30403000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22440000",
+      "sell": "23140000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11220000",
+      "sell": "11570000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:36"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "59004000",
+      "sell": "60834000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29502000",
+      "sell": "30417000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22450000",
+      "sell": "23150000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11225000",
+      "sell": "11575000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:34"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58746000",
+      "sell": "60566000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29373000",
+      "sell": "30283000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22360000",
+      "sell": "23050000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11180000",
+      "sell": "11525000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:32"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58624000",
+      "sell": "60434000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29312000",
+      "sell": "30217000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22310000",
+      "sell": "23000000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11155000",
+      "sell": "11500000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:28"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58570000",
+      "sell": "60380000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29285000",
+      "sell": "30190000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22290000",
+      "sell": "22980000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11145000",
+      "sell": "11490000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:26"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58516000",
+      "sell": "60326000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29258000",
+      "sell": "30163000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22270000",
+      "sell": "22960000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11135000",
+      "sell": "11480000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:24"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "58464000",
+      "sell": "60274000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 0.5 KG (500 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "29232000",
+      "sell": "30137000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
+    {
+      "name": "BẠC THỎI 2025 ANCARAT 999 10 LƯỢNG (375 GRAM) (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "22250000",
+      "sell": "22940000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
+    {
+      "name": "BẠC BẮC SƯ TỬ ANCARAT 999 5 LƯỢNG (ANCARAT)",
+      "karat": "",
+      "content": "",
+      "buy": "11125000",
+      "sell": "11470000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 KG 1000 GRAM (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "59679851",
+      "sell": "61519846",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 5 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "11190000",
+      "sell": "11535000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
+    {
+      "name": "BẠC MIẾNG PHÚ QUÝ Ag 999 1 LƯỢNG (PHÚ QUÝ)",
+      "karat": "",
+      "content": "",
+      "buy": "2238000",
+      "sell": "2307000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 1 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "57319000",
+      "sell": "60598000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
+    {
+      "name": "BẠC THỎI BẠC RỒNG THĂNG LONG Ag 999 0,5 KG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "28659500",
+      "sell": "30299000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 5 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "10750000",
+      "sell": "11365000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
+    {
+      "name": "BẠC MIẾNG BẠC RỒNG THĂNG LONG Ag 999 1 LƯỢNG (BẠC RỒNG THĂNG LONG Ag 999)",
+      "karat": "",
+      "content": "",
+      "buy": "2150000",
+      "sell": "2273000",
+      "worldPrice": "4435",
+      "updated": "03/09/2026 19:18"
+    },
     {
       "name": "BẠC THỎI 2025 ANCARAT 999 1 KG (1000 GRAM) (ANCARAT)",
       "karat": "",
@@ -24573,6 +27939,6 @@
       "updated": "03/09/2026 07:58"
     }
   ],
-  "fetchedAt": "2026-09-03T12:18:42.815Z",
+  "fetchedAt": "2026-09-03T17:20:29.293Z",
   "source": "btmc-api"
 }
