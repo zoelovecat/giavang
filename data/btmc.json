@@ -6,20 +6,20 @@
       "name": "Bao Tin SJC",
       "karat": "24K",
       "content": "999.9",
-      "buy": "12860000",
+      "buy": "12830000",
       "sell": "13420000",
-      "updated": "2026-11-20 11:30"
+      "updated": "2026-11-20 21:00"
     },
     {
       "name": "Bao Tin 9999",
       "karat": "24K",
       "content": "999.9",
-      "buy": "12860000",
-      "sell": "13360000",
-      "updated": "2026-11-20 11:30"
+      "buy": "12830000",
+      "sell": "13330000",
+      "updated": "2026-11-20 21:00"
     }
   ],
-  "fetchedAt": "2026-11-20T04:34:46.851Z",
+  "fetchedAt": "2026-11-20T14:28:52.940Z",
   "source": "giavang",
   "note": "Chỉ 2 loại BTMC từ giavang.now — server GitHub không kết nối được api.btmc.vn"
 }
